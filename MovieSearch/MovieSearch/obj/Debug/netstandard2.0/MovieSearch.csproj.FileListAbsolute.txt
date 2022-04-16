@@ -1,0 +1,15 @@
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\bin\Debug\netstandard2.0\MovieSearch.deps.json
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\bin\Debug\netstandard2.0\MovieSearch.dll
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\bin\Debug\netstandard2.0\MovieSearch.pdb
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.csproj.AssemblyReference.cache
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.AssemblyInfoInputs.cache
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.AssemblyInfo.cs
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.csproj.CoreCompileInputs.cache
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.dll
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\refint\MovieSearch.dll
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\MovieSearch.pdb
+C:\Users\Vini Henquesz\Desktop\MovieSearch\MovieSearch\MovieSearch\obj\Debug\netstandard2.0\ref\MovieSearch.dll

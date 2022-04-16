@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MovieSearch.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="HotPink" Padding="24" CornerRadius="0">
+            <Label Text="Mobile Movie Search" HorizontalTextAlignment="Center" TextColor="black" FontSize="36"/>
+        </Frame>
+        <Label Text="Seja bem vindo!" FontSize="Title" TextColor="White" Padding="30,10,30,10"/>
+        <Label Text="Apenas com o titulo  e um clique você pode procurar pelo seu filme favorito e ver as suas principais informações!
+               começe pesquisando abaixo:" FontSize="16" Padding="30,0,30,0"/>
+
+        <FlexLayout Padding="20,0" >
+            <Entry Placeholder="Digite o seu filme aqui" x:Name="lbl_filme" WidthRequest="350" HeightRequest="50" IsEnabled="true" TextColor="White" Visual="Material" />
+        </FlexLayout>
+
+        <FlexLayout Padding="100,10">
+            <Button x:Name="btn_pesquisar" Text="Pesquisar" BackgroundColor="HotPink" Clicked="btn_pesquisar_Clicked" Margin="8,0" CornerRadius="5" />
+            <Button x:Name="btn_limpar" Text="Limpar" BackgroundColor="#C52D78" Clicked="btn_limpar_Clicked" Margin="10,0" CornerRadius="5"/>
+        </FlexLayout>
+
+        <Frame x:Name="frame" BackgroundColor="#252525" WidthRequest="100" HeightRequest="250" CornerRadius="5" Margin="15">
+            <AbsoluteLayout Padding="0,0">
+                <FlexLayout WidthRequest="350" HeightRequest="50">
+                    <Label x:Name="Title" Text="O JOGO DA IMITAÇÃO" FontSize="30" TextColor="HotPink" />
+                </FlexLayout>
+                
+                 <Label FontSize="16" Padding="2,35,30,0">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="2014" TextColor="White"/>
+                                <Span Text=" • " TextColor="HotPink"/>
+                                <Span Text="Drama"  TextColor="White"/>
+                                <Span Text=" • " TextColor="HotPink"/>
+                                <Span Text="1h 54m" TextColor="White"/>
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <Label x:Name="Resumo" Text="Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o..." FontSize="Body" Padding="0,70"/>
+
+            </AbsoluteLayout>
+        </Frame>
+
+            <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <!--<Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>-->
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
